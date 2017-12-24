@@ -4,7 +4,8 @@ cd twitter-clone-hpdf-task-1
 npm install
 
 
-npm start``` 
+npm start
+```
 
 
 
