@@ -10,10 +10,13 @@ npm install
 
 npm start
 ```
-
-
-
-
+By default it will render the search page of twitter with a search on **Cristiano Ronaldo**.
+To render the homepage, go to index.js and instead of 
+``` <SearchPage />
+```
+write this
+```<Homepage />
+```
 
 
 **Overview**
