@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.material-icons.orange600 { color: #FB8C00; }
+#root{
+color:red;
+
+}
+::placeholder{color:'blue';
+opacity:1;
+}
+.hi{color:red;}
