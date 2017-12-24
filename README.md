@@ -25,7 +25,7 @@ To render the homepage, go to index.js and instead of
 ```
 write this
 ```
-<Homepage />
+<HomePage />
 ```
 
 
