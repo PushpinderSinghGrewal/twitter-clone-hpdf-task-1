@@ -44,7 +44,7 @@ ReactDOM.render(
 
 
     Remove the  <SearchPage /> JSX element from the return statement and instead of it add
-    <Homepage />
+    <HomePage />
 
 
 
