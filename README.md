@@ -1,6 +1,6 @@
 **Overview**
 
-Nothing fancy, it is a clone of twitter that has the homepage and the search page. It is built using react.js. 
+Nothing fancy, it is a clone of twitter that has the homepage and the search page. It is built using react.js. and material-ui .
 
 
 
