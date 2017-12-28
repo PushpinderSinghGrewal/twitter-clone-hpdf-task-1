@@ -6,7 +6,7 @@ Nothing fancy, it is a clone of twitter that has the homepage and the search pag
 
 **Detailed blogpost**
 ```
-Coming soon. Probably by tomorrow i.e., 25/12/2017
+https://medium.com/@pndrgrewal12/ihow-i-created-a-twitter-clone-to-troll-fc-barcelona-hpdf-task-1-d2360524ee22
 ```
 **Running the app locally**
 ```
