@@ -5,9 +5,9 @@ Nothing fancy, it is a clone of twitter that has the homepage and the search pag
 
 
 **Detailed blogpost**
-```
+
 Here is a link to the blogpost written specifically for this project- https://medium.com/@pndrgrewal12/ihow-i-created-a-twitter-clone-to-troll-fc-barcelona-hpdf-task-1-d2360524ee22
-```
+
 **Running the app locally**
 ```
 git clone https://github.com/PushpinderSinghGrewal/twitter-clone-hpdf-task-1
