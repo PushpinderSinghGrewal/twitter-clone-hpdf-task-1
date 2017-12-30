@@ -2,10 +2,8 @@ import React from 'react';
 import MobileTearSheet from './MobileTearSheet';
 import Avatar from 'material-ui/Avatar';
 import {List, ListItem,ListItemSecondaryAction} from 'material-ui/List';
-//import Subheader from 'material-ui/Subheader';
 import FontIcon from 'material-ui/FontIcon';
 import IconButton from 'material-ui/IconButton';
-import CommentIcon from 'material-ui-icons/Comment';
 import RaisedButton from 'material-ui/RaisedButton';
 import Divider from 'material-ui/Divider';
 
